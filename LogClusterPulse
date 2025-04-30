@@ -1,0 +1,23 @@
+
+---
+
+### **3. 33_LogClusterPulse**  
+**Description:**  
+Detects log clusters, frequency bursts, and pattern surges across large logging streams.
+
+#### **README.md**
+```markdown
+# LogClusterPulse - Burst and Cluster Log Analyzer
+
+LogClusterPulse groups logs into frequency clusters to detect error surges, instability zones, and burst waves.
+
+## Features
+- Heatmap clustering  
+- Pattern frequency tracking  
+- CLI timeline scan  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_LogClusterPulse.git
+cd 33_LogClusterPulse
+python analyze.py
