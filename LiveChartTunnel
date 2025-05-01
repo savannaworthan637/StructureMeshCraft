@@ -1,0 +1,23 @@
+
+---
+
+### **4. 33_LiveChartTunnel**  
+**Description:**  
+Scrolls numeric live data into a real-time chart with a tunnel-like animated view.
+
+#### **README.md**
+```markdown
+# LiveChartTunnel - Realtime Data Stream Visualizer
+
+LiveChartTunnel displays incoming data in a smooth scrolling timeline, perfect for metrics, experiments, or dashboards.
+
+## Features
+- Live scrollable plot  
+- Adjustable update interval  
+- Matplotlib backend  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_LiveChartTunnel.git
+cd 33_LiveChartTunnel
+python visualize.py
