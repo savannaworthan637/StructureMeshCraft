@@ -1,0 +1,19 @@
+
+Инструмент для мониторинга API с фокусом на выявление отказов, просадок и нестабильности по временной шкале.
+
+#### `README.md`
+```markdown
+# APIFaultRadar - Outage & Error Spike Monitor
+
+APIFaultRadar watches multiple endpoints and flags abnormal latency, timeouts, or HTTP errors in bursts.
+
+## Features
+- Spike and fault detection  
+- Realtime scan loop  
+- CSV/JSON reporting
+
+## Usage
+```bash
+git clone https://github.com/your-username/32_APIFaultRadar.git
+cd 32_APIFaultRadar
+python monitor.py
